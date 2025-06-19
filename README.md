@@ -1,16 +1,105 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Achref Messai</h1>
+<h3 align="center">🚀 5th-year Engineering Student in Network and Computer Science (INSAT)</h3>
 
-<!--
-**thedevil002/thedevil002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔐 Passionate about cybersecurity, cloud computing , DevOps and fullstack development.
+  <br />
+  🌱 Currently preparing: <strong>AWS Certified Solutions Architect </strong>  
+  <br />
+  👯 Looking to collaborate on projects in <strong>cloud security, DevOps, and full-stack development</strong>.  
+  <br />
+  📫 Reach me at: <a href="mailto:achref.messai@insat.ucar.tn">achref.messai@insat.ucar.tn</a>  
+</p>
+---
+## 🛠️ Tools & Technologies
 
-Here are some ideas to get you started:
+<p align="left">
+  <!-- Programming languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Web & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+
+  <!-- Cloud, DevOps & Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+  <!-- Databases & Cloud tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/logo-icon.svg" width="40" height="40" alt="supabase"/>
+
+  <!-- Other tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+
+  <!-- Custom logos -->
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40" alt="Hono.js"/>
+  <img src="https://raw.githubusercontent.com/cloudflare/wrangler2/main/docs/public/favicon.svg" width="40" height="40" alt="Wrangler"/>
+</p>
+
+## 🧠 Projects
+
+### ✅ CSPM Tool for AWS Security Compliance
+> A Cloud Security Posture Management (CSPM) tool to audit AWS environments using CIS Benchmarks.  
+> Includes a CLI for power users and a Web UI for result visualization.
+
+🔹 Python · AWS SDK · Cloud Security · Compliance Automation
+
+---
+
+### 🔐 Encrypted Access Control with Amazon RDS
+> A secure MySQL data storage solution using AES-GCM-256, CP-ABE, and attribute-based access control (ABAC).  
+> Built with PyQT6, Bcrypt, OpenSSL, and CryptoPP.
+
+🔹 Data Encryption · MySQL · CP-ABE · ABAC · Cryptography
+
+---
+
+### 🏦 E-Crédit Web App – Internship @ GTI (Aug–Sep 2024)
+> Full-stack secure online credit platform (Angular + Spring Boot) deployed on AWS with end-to-end encryption and IaC via Terraform.
+
+🔹 Spring Boot · PostgreSQL · OpenSSL · Cloud Deployment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedevil002&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevil002&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📜 Certifications
+
+- ✅ AWS Certified Cloud Practitioner
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 French — Bilingual  
+- 🇬🇧 English — Bilingual  
+- 🇹🇳 Arabic — Native  
+- 🇩🇪 German — Basic
+
+---
+
+## 🔗 Let's Connect
+
+- 🔗 [GitHub](https://github.com/thedevil002)
+- 💼 [LinkedIn](https://linkedin.com/in/achref-messai-a62788244)
