@@ -10,7 +10,9 @@
   <br />
   📫 Reach me at: <a href="mailto:achref.messai@insat.ucar.tn">achref.messai@insat.ucar.tn</a>  
 </p>
+
 ---
+
 ## 🛠️ Tools & Technologies
 
 <p align="left">
@@ -50,6 +52,18 @@
 </p>
 
 ## 🧠 Projects
+
+### 🤖 MLOps Security & Monitoring Platform
+> Comprehensive MLOps platform for automated monitoring and security compliance of AI/LLM inference systems with real-time threat detection and performance analytics.
+
+🔹 **Security Layer**: Advanced prompt injection detection with 6 threat categories covering 40+ attack vectors  
+🔹 **LLM Monitoring**: Complete observability system replacing Langfuse with API call tracking and cost calculation  
+🔹 **Infrastructure**: Containerized architecture using Docker Compose with PostgreSQL, Redis, Prometheus, and Grafana  
+🔹 **AI Intelligence**: GPT-4 powered analysis agent for security insights and optimization recommendations  
+
+**Tech Stack:** FastAPI · PostgreSQL · Docker · Prometheus · Grafana · OpenAI API · Python
+
+---
 
 ### ✅ CSPM Tool for AWS Security Compliance
 > A Cloud Security Posture Management (CSPM) tool to audit AWS environments using CIS Benchmarks.  
