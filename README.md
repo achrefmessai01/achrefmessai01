@@ -2,9 +2,9 @@
 <h3 align="center">🚀 5th-year Engineering Student in Network and Computer Science (INSAT)</h3>
 
 <p align="center">
-  🔐 Passionate about cybersecurity, cloud computing , DevOps and fullstack development.
+  🔐 Passionate about cybersecurity, cloud computing, DevOps and fullstack development.
   <br />
-  🌱 Currently preparing: <strong>AWS Certified Solutions Architect </strong>  
+  🌱 Currently preparing: <strong>AWS Certified Solutions Architect</strong>  
   <br />
   👯 Looking to collaborate on projects in <strong>cloud security, DevOps, and full-stack development</strong>.  
   <br />
@@ -52,6 +52,19 @@
 </p>
 
 ## 🧠 Projects
+
+### 🏥 Alfar - Modern Physiotherapy Platform
+> Full-stack healthcare platform connecting patients with qualified physiotherapists through intelligent appointment management and AI-powered document verification.
+
+🔹 **Frontend**: React.js with TypeScript, real-time dashboards, Stripe payment integration, responsive design with Tailwind CSS  
+🔹 **Backend**: Serverless API using Hono.js deployed on Cloudflare Workers with JWT authentication  
+🔹 **Database**: PostgreSQL with Supabase, Row Level Security policies, and real-time subscriptions  
+🔹 **AI Integration**: Python + Gemini API for automated physiotherapist license verification using OCR  
+🔹 **Features**: Role-based dashboards, appointment scheduling, payment processing, availability management, analytics  
+
+**Tech Stack:** React · TypeScript · Hono.js · Cloudflare Workers · PostgreSQL · Supabase · Python · Gemini AI · Stripe
+
+---
 
 ### 🤖 MLOps Security & Monitoring Platform
 > Comprehensive MLOps platform for automated monitoring and security compliance of AI/LLM inference systems with real-time threat detection and performance analytics.
